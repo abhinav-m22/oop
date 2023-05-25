@@ -1,0 +1,3 @@
+VideoTape class has variables as Title, Length, Available  and method as show().
+Movie class has variables as Director, Rating and method as show().
+MusicVideo has variables as Artist, Category and method as show();
